@@ -46,19 +46,19 @@ Edit
 mvn clean install
 🚀 Running the Program
 1. Build the Project
-   If using Maven:
+If using Maven:
 
 bash
 Copy
 Edit
 mvn package
 2. Run the Main Class
-   bash
-   Copy
-   Edit
-   java -cp target/secretsanta-1.0.jar secretsanta.Main
+bash
+Copy
+Edit
+java -cp target/secretsanta-1.0.jar secretsanta.Main
 3. Required Files
-   employees.csv - A list of employees with names and emails.
+employees.csv - A list of employees with names and emails.
 
 assignments_last_year.csv - (Optional) Last year's assignments for avoiding duplicates.
 
@@ -117,4 +117,5 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 📃 License
 MIT License
+
 
